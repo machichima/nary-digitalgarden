@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/digitalgarden-homepage/","title":"About me","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digitalgarden-homepage/","title":"About me","tags":["gardenEntry"],"dgShowInlineTitle":true}
 ---
-
-# About me
 
 ## About me
 Hi, I am Nary. I'm a student studying in Data Science.
