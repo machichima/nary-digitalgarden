@@ -5,8 +5,6 @@
 
 > Hi, I am Nary. I'm a student studying in Data Science.
 
-[[Subpage\|Subpage]]
-
 ## Education
 - ...
 
