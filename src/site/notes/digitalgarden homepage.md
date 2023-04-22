@@ -4,8 +4,7 @@
 
 # About Me
 
-## About me
-Hi, I am Nary. I'm a student studying in Data Science.
+> Hi, I am Nary. I'm a student studying in Data Science.
 
 ## Education
 - National Taipei University of Technology
