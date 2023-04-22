@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digitalgarden-homepage/","title":"About me"}
+{"dg-publish":true,"dg-permalink":"/","permalink":"/","title":"About me"}
 ---
 
 
