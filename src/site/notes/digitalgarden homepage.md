@@ -4,4 +4,18 @@
 
 # About me
 
-> This is the home page of my digitalgarden
+## About me
+Hi, I am Nary. I'm a student studying in Data Science.
+
+## Education
+- National Taipei University of Technology
+	- gpa: 3.99/4.0
+
+## Work Experience
+- ...
+
+## Projects
+- ...
+
+## Links
+[github](https://github.com/machichima)
