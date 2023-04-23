@@ -23,9 +23,9 @@
 
 ## Projects
 
-| File                                                 | Tags    | Link | Description                                          |
-| ---------------------------------------------------- | ------- | ---- | ---------------------------------------------------- |
-| [[Projects/GAN project/GAN project\|GAN project]] | #ml/GAN | \-   | generate receipe / cooked food with fresh ingredient |
+| Name                                                 | Image | Tags    | Link | Description                     |
+| ---------------------------------------------------- | ----- | ------- | ---- | ------------------------------- |
+| [[Projects/GAN project/GAN project\|GAN project]] | \-    | #ml/GAN | \-   | generate food image with recipe |
 
 
 ## Links
