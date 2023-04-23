@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/","permalink":"/","title":"About me"}
+{"dg-publish":true,"dg-permalink":"/","permalink":"/","title":"About me","pinned":true}
 ---
 
 
