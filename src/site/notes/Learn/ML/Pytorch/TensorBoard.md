@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ML/Pytorch/","permalink":"//"}
+{"dg-publish":true,"dg-path":"ML/Pytorch/TensorBoard.md","permalink":"/ml/pytorch/tensor-board/"}
 ---
 
 
