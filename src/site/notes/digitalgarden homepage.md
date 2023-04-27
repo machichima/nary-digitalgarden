@@ -27,6 +27,7 @@
 | ---------------------------------------------------- | ----- | ------- | ---- | ------------------------------- |
 | [[Projects/GAN project/GAN project\|GAN project]] | \-    | #ml/GAN | \-   | generate food image with recipe |
 
+{ .block-language-dataview}
 
 ## Links
 [github](https://github.com/machichima)
