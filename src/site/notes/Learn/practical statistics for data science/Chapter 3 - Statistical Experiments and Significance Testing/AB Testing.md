@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Practical Statistics for Data Science/AB Testing.md","permalink":"/practical-statistics-for-data-science/ab-testing/","hide":true}
+{"dg-publish":true,"dg-path":"Practical Statistics for Data Science/Chapter 3 - Statistical Experiments and Significance Testing/AB Testing.md","permalink":"/practical-statistics-for-data-science/chapter-3-statistical-experiments-and-significance-testing/ab-testing/","hide":true}
 ---
 
 [[Learn/practical statistics for data science/practical statistics for data science\|practical statistics for data science]]
