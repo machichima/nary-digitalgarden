@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/Blind Study.md","permalink":"/practical-statistics-for-data-science/chapter-3-statistical-experiments-and-significance-testing/blind-study/","hide":true}
+{"dg-publish":true,"dg-path":"Practical Statistics for Data Science/Chapter 3 - Statistical Experiments and Significance Testing/Blind Study.md","permalink":"/practical-statistics-for-data-science/chapter-3-statistical-experiments-and-significance-testing/blind-study/","hide":true}
 ---
 
 
