@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Practical Statistics for Data Science/Chapter 3 - Statistical Experiments and Significance Testing.md","permalink":"/practical-statistics-for-data-science/chapter-3-statistical-experiments-and-significance-testing/"}
+{"dg-publish":true,"dg-path":"Practical Statistics for Data Science/Chapter 3 - Statistical Experiments and Significance Testing/Chapter 3 - Statistical Experiments and Significance Testing.md","permalink":"/practical-statistics-for-data-science/chapter-3-statistical-experiments-and-significance-testing/chapter-3-statistical-experiments-and-significance-testing/"}
 ---
 
 
