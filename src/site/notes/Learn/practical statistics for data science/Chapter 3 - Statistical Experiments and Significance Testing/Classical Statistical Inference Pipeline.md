@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Practical Statistics for Data Science/Classical Statistical Inference Pipeline.md","permalink":"/practical-statistics-for-data-science/classical-statistical-inference-pipeline/","hide":true}
+{"dg-publish":true,"dg-path":"Practical Statistics for Data Science/Chapter 3 - Statistical Experiments and Significance Testing/Classical Statistical Inference Pipeline.md","permalink":"/practical-statistics-for-data-science/chapter-3-statistical-experiments-and-significance-testing/classical-statistical-inference-pipeline/","hide":true}
 ---
 
 
