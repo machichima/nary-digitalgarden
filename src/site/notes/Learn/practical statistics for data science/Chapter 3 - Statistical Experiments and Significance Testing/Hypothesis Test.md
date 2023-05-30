@@ -5,7 +5,7 @@
 
 [[Learn/practical statistics for data science/practical statistics for data science\|practical statistics for data science]]
 **Tags**:: #statistic/experiment  
-**Links**:: 
+**Links**:: [[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/Statistical Significance\|Statistical Significance]]
 **Canvas**:: 
 
 - [[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/Hypothesis Test#Def\|Def]]
@@ -21,6 +21,8 @@
 ## Def
 
 > Their purpose is to help you learn whether random chance might be responsible for an observed effect ([pdf](zotero://open-pdf/library/items/XC4XLTB4?page=111&annotation=SXBWNNLH))
+
+> also called significance test
 
 ## Why do we need a hypothesis?
 
@@ -65,7 +67,7 @@
 > > presumption is that you will stick with the default option unless the new option proves itself definitively better ([pdf](zotero://open-pdf/library/items/XC4XLTB4?page=113&annotation=XBA9ERSI))
 > - [[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/AB Testing\|AB Testing]] 中，時常用來測試新的方法，若新方法並沒有更好，則會使用原先的方法
 
-- extreme chance results in only one direction count toward the p-value.
+- extreme chance results in only one direction count toward the [[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/p-Value\|p-value]].
 	- 只有那些極端偶然結果偏向我們所關注的一側的情況才會計入p值的計算中
 
 > [!important]
@@ -74,7 +76,7 @@
 ### Two-Way (Two-Tail) Hypothesis Test
 
 - 用於需要驗證兩個 direction 時
-- extreme chance results in either direction count toward the p-value
+- extreme chance results in either direction count toward the [[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/p-Value\|p-value]]
 
 > [!important]
 > 軟體給出的 default 結果大多都是使用 two-way hypothesis test
@@ -83,5 +85,5 @@
 ### One-Way vs Two-Way
 
 > [!info]
-> One-tail versus two-tail is a confusing subject, and not that relevant for data science, where the precision of p-value calculations is not terribly important ([pdf](zotero://open-pdf/library/items/XC4XLTB4?page=113&annotation=RAYJ5C2X))
+> One-tail versus two-tail is a confusing subject, and not that relevant for data science, where the precision of [[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/p-Value\|p-value]] calculations is not terribly important ([pdf](zotero://open-pdf/library/items/XC4XLTB4?page=113&annotation=RAYJ5C2X))
 
