@@ -27,7 +27,7 @@
 > The nature of the null hypothesis determines the structure of the [[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/Hypothesis Test\|hypothesis test]] ([pdf](zotero://open-pdf/library/items/XC4XLTB4?page=113&annotation=3UYBM6U7))
 
 ### 作法
-- 其中一種作法為 ==resampling permutation procedure==，稱為 null model
+- 其中一種作法為 ==[[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/Resampling\|resampling]] permutation procedure ([[Learn/practical statistics for data science/Chapter 3 - Statistical Experiments and Significance Testing/Permutation Test#Random permutation test\|permutation test#Random permutation test]])==，稱為 null model
 	1. mix the results from group A and B together
 	2. repeatly resample two groups from it (重複的從 1. 中 resample 出兩個 group)
 	3. observe how often we get a difference between the two groups as extreme as the observed difference (觀察得到極端差異的頻率)
